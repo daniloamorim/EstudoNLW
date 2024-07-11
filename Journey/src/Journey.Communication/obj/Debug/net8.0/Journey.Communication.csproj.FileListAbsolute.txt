@@ -1,0 +1,12 @@
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
+C:\Users\amori\OneDrive\Documentos\EstudoNLW\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.sourcelink.json
