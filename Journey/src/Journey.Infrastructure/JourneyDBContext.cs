@@ -10,5 +10,14 @@ public class JourneyDBContext : DbContext
     {
         optionsBuilder.UseSqlite("Data Source=C:\\Users\\amori\\OneDrive\\Documentos\\EstudoNLW\\JourneyDatabase.db");
     }
+
+    /* isso e uso para nao ter um link ditero a tabela de Activities 
+     dessa forma estou acessando minha tabela Activities atravez da mina tabela Trips*/
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+
+        modelBuilder.Entity<Activity>().ToTable("Activities");
+    }
 }
 

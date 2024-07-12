@@ -126,4 +126,7 @@
   <data name="START_DATE_TRIP" xml:space="preserve">
     <value>A viagem não pode ser marcada em dia anterior ao dia atual</value>
   </data>
+  <data name="TRIP_NOT_FOUND" xml:space="preserve">
+    <value>Viagem não encontrada</value>
+  </data>
 </root>
